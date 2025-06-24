@@ -32,6 +32,7 @@ Beberapa aktivitas yang tengah atau akan kami jalankan:
 - 🔧 Tantangan eksploitasi kernel buatan sendiri dan buatan peneliti
 - 📚 Roadmap belajar kernel pwn & reversing
 - 🧪 Eksperimen real-world bug (CVE, upstream audit, dll)
+- 🔬 Eksperimen pengembangan dan pembuatan (kernel, sistem biner, abi dll secara kustom)
 - ✍️ Dokumentasi teknik dan write-up publik
 - 🧩 Subgrup untuk yang hobi kernel development, opreker perangkat embedded, dan grup belajar topik low level lainnya
 
