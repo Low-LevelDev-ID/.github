@@ -10,7 +10,7 @@
   - Cocok untuk kamu yang tertarik mengoprek OS untuk sistem tertanam seperti ECU mobil, sistem avionik, atau perangkat edge AI
 
 - **📟 Arsitektur & Embedded System**
-  - x86, ARM, RISC-V, bare metal
+  - x86, ARM, RISC-V, bare metal, VM (Virtual Machine)
   - Firmware hacking, JTAG/SWD debugging, bootloader, SoC-level exploration
 
 - **🛡️ Keamanan Sistem**
@@ -39,6 +39,7 @@ Beberapa aktivitas yang tengah atau akan kami jalankan:
 
 Komunitas ini terdiri dari:
 - Peneliti keamanan low level
+- Pengembangan sistem native 
 - Antusias kernel development 
 - Opreker perangkat embedded
 
