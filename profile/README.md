@@ -54,7 +54,7 @@ Kami terbuka untuk siapa saja yang serius ingin belajar dan berkontribusi di ran
 
 Silakan bergabung dan berdiskusi bersama kami di:
 
-- Telegram: [@LowLevelDevID](https://t.me/LowLevelDevID)
+- Telegram: https://t.me/Bam0x7
 
 ---
 
